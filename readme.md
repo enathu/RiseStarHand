@@ -20,4 +20,5 @@ Created by: Tharique Azeez -- [niram.org](http://niram.org) -- [@enathu](http://
 
 ###License
 Copyright (c) 2014, Tharique Azeez
-OFL (SIL Open Font License)[?](http://scripts.sil.org/OFL)
+
+OFL (SIL Open Font License)[[?]](http://scripts.sil.org/OFL)
