@@ -19,4 +19,5 @@ The download page has the details about how to use RiseStarHand on website as We
 Created by: Tharique Azeez -- [niram.org](http://niram.org) -- [@enathu](http://twitter.com/enathu)
 
 ###License
-OFL (SIL Open Font License)
+Copyright (c) 2014, Tharique Azeez
+OFL (SIL Open Font License)[?](http://scripts.sil.org/OFL)
