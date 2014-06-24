@@ -1,6 +1,6 @@
 ##RiseStarHand
 
-RiseStarHand is a fancy handwriting font, that comes in three styles namely, thin, regular and medium (semi-bold)
+RiseStarHand is a fancy handwriting font, that comes in three styles namely, Light, Regular and Semi Bold
 
 This repository is for the development version of the font. Please refer usage section to download the latest build font and web fonts.
 
@@ -13,6 +13,10 @@ This following sample illustrates how RiseStarHand font will look on your design
 All three styles of fonts are hosted at OpenFontLibrary. You can get the latest version of the font in OFLB site - Here is the [**link**](http://openfontlibrary.org/en/font/risestarhand)
 
 The download page has the details about how to use RiseStarHand on website as Web Font. Links and Code are available there. Please refer the [**link**](http://openfontlibrary.org/en/font/risestarhand)
+
+## Want the source?
+
+Grab this very repository. It has UFO and VFB files of the font. Enjoy!
 
 ###Details
 
